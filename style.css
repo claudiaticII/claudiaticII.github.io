@@ -1,4 +1,4 @@
-#intro {background-color: rgb(218, 110, 110)}
+#intro {background-color: rgb(179, 129, 199)}
 #ejercicios {background-color: rgb(191, 113, 214)}
 #hosting {background-color: rgb(117, 98, 228)}
 #p1 {font-family:"fantasy", monospace;
@@ -8,3 +8,8 @@
 body{background-color: black;}
 #ejercicios2 {background-color: blueviolet}
 h1{text-align:center}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
