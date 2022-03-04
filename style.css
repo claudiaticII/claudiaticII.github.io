@@ -18,17 +18,22 @@ img {
 }
 
 
+
+
 .boton:link, .boton:visited {
   background-color: white;
   color: black;
-  border: 2px solid green;
+  border: 2px solid #9f7bcc;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;}
+  display: inline-block; text-align:left;}
 
 
-.boton:hover, .boton:active {
-  background-color: green;
-  color: white;
+.boton:hover, .boton:active 
+{
+  background-color: #9f7bcc;
+  color: white; text-align:left; 
 }
+.boton:link {float: right;;}
+p{text-align:justify;}
