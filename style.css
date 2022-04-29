@@ -9,6 +9,7 @@ body{background-color: black;}
 #ejercicios2 {background-color: blueviolet}
 
 #ejercicios4 {background-color:#afa2c3 }
+#more{background-color:#8e78ff }
 #no{background-color: rgba(181, 135, 224, 0.726);}
 h1{text-align:center}
 img {
@@ -16,7 +17,7 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-
+#script {background-color: #ba90d0}
 
 
 
